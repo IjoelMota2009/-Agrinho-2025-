@@ -524,7 +524,7 @@ function somOver(){
 //------- fontes retiradas- ------
 // efeitos sonoros foi retirado do site https://pixabay.com/pt/
 // imagem do google e do site https://pixabay.com/pt/
-//codigos que eu n sabia fazer como o estilo dos botoes eu olhei em videos e pedi ajuda no chatgpt eu falava pode me ajudar a melhorar tal coisa no meu codiogo e ele me ajudava a fazer e corrigir.
+//codigos que eu n sabia corrigir como o estilo dos botoes eu olhei em videos e pedi ajuda no chatgpt eu falava pode me ajudar a melhorar tal coisa no meu codiogo e ele me ajudava a fazer e corrigir.
 //as fontes-size do google fonts
 
 //--------codigos de test chets-----------
